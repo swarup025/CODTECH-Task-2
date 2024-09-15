@@ -114,11 +114,11 @@ Code Walkthrough:
             o  if __name__ == "__main__": block handles the input prompt and calls the main scanning function.
 
 Future Improvements:
-            •  Extended Port Range: Allow the user to specify a custom port range for scanning instead of the default 1-1024.
-            •  HTML/CSV Report Generation: Generate detailed scan reports in HTML or CSV format for later review.
-            •  Service Vulnerability Database: Compare the detected software versions with known vulnerabilities (e.g., via a CVE database).
-            •  Multi-threaded Scanning: Optimize performance by enabling multi-threaded or asynchronous scanning.
-            •  Authentication Support: Add authentication methods for scanning internal or protected networks.
+            •  Extended Port Range:   Allow the user to specify a custom port range for scanning instead of the default 1-1024.
+            •  HTML/CSV Report Generation:   Generate detailed scan reports in HTML or CSV format for later review.
+            •  Service Vulnerability Database:   Compare the detected software versions with known vulnerabilities (e.g., via a CVE database).
+            •  Multi-threaded Scanning:   Optimize performance by enabling multi-threaded or asynchronous scanning.
+            •  Authentication Support:   Add authentication methods for scanning internal or protected networks.
 
 Conclusion:
 
